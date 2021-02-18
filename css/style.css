@@ -92,6 +92,12 @@ img {
 	height: 16px;
 }
 
+#start {
+	position: absolute;
+	top: calc((20px * 42) + 4px);
+	left: calc((20px * 8) + 4px);
+}
+
 /* ERIBU ITEMS */
 #DataDisruptor {
 	position: absolute;
